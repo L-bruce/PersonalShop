@@ -1,0 +1,13 @@
+C:/wamp/www/shopcmd-test/img/l_mall_yunwei.png,189,178,2,2
+C:/wamp/www/shopcmd-test/img/l_mall_xitong.png,187,178,2,182
+C:/wamp/www/shopcmd-test/img/l_mall_phone_03.png,182,180,2,362
+C:/wamp/www/shopcmd-test/img/l_mall_gexing.png,178,178,2,544
+C:/wamp/www/shopcmd-test/img/l_mall_tixi.png,178,178,2,724
+C:/wamp/www/shopcmd-test/img/l_mall_mendian.png,112,104,2,904
+C:/wamp/www/shopcmd-test/img/l_mall_mendianW.png,112,104,2,1010
+C:/wamp/www/shopcmd-test/img/l_mall_shangyeW.png,110,106,2,1116
+C:/wamp/www/shopcmd-test/img/l_mall_iconhomeW.png,110,109,2,1224
+C:/wamp/www/shopcmd-test/img/l_mall_iconhome.png,110,109,2,1335
+C:/wamp/www/shopcmd-test/img/l_mall_shangye.png,110,106,2,1446
+C:/wamp/www/shopcmd-test/img/l_mall_dianpuW.png,104,106,2,1554
+C:/wamp/www/shopcmd-test/img/l_mall_dianpu.png,104,106,2,1662

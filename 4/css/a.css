@@ -1,0 +1,272 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+* {
+	font-family: '微软雅黑';
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.warp {
+	margin: 0 auto;
+	width: 100%;
+	height: 558px;
+	background: url("../img/a.png") no-repeat 50% 0;
+	position: relative;
+}
+
+a {
+	text-decoration: none;
+	color: #000;
+}
+
+ul,
+ol,
+dl {
+	list-style: none;
+}
+
+i,
+em {
+	font-style: normal;
+}
+
+b,
+strong {
+	font-weight: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: normal;
+}
+
+img {
+	display: block;
+}
+.clearfix:after {
+	display: block;
+	clear: both;
+	content: "";
+}
+
+.clearfix {
+	zoom: 1;
+}
+
+input {
+	outline: none;
+}
+
+textarea {
+	resize: none;
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.fx_lp .pct {
+	height: 558px;
+	position: relative;
+}
+
+.fx_lp .pct img {
+	height: 560px;
+	position: relative;
+}
+
+.fx_lp .pct a {
+	display: block;
+	width: 260px;
+	height: 60px;
+	background: #4bb8f7;
+	color: #fff;
+	position: absolute;
+	top: 370px;
+	left: 80px;
+	font-size: 24px;
+	text-align: center;
+    line-height: 60px;
+    border-radius: 5px;
+}
+
+.fx_lp .cpjs img {
+	margin-left: 7%;
+	margin-top: 73px;
+}
+
+.fx_lp .cpjs p {
+	font-size: 16px;
+	color: #666;
+	line-height: 23px;
+}
+
+.fx_lp .cpjs {
+	position: relative;
+}
+
+.fx_lp .cpjs .wz_1 {
+	width: 572px;
+	margin-top: 155px;
+}
+
+.fx_lp .cpjs .bj img {
+	position: absolute;
+	top: 2px;
+	left: 673px;
+}
+
+.fx_lp .cpys img {
+	margin-left: 7%;
+	margin-top: 160px;
+}
+
+.fx_lp .cpys_1 img {
+	margin-left: 48px;
+	margin-top: 75px;
+}
+
+.fx_lp .cpys_1 .wz {
+	margin-left: 141px;
+	width: 560px;
+	margin-top: 205px;
+}
+
+.fx_lp .cpys_1 .wz h4 {
+	color: #333;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 21px;
+}
+
+s .fx_lp .cpys_1 .wz p {
+	font-size: 14px;
+	color: #666;
+	line-height: 18px;
+}
+
+.fx_lp .cpys_2 .wz_2 {
+	width: 560px;
+	margin-top: 168px;
+}
+
+.fx_lp .cpys_2 .wz_2 h4 {
+	color: #333;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 21px;
+}
+
+s .fx_lp .cpys_2 .wz_2 p {
+	font-size: 14px;
+	color: #666;
+	line-height: 18px;
+}
+
+.fx_lp .cpys_2 img {
+	margin-top: 60px;
+}
+
+.fx_lp .an {
+	width: 260px;
+	height: 56px;
+	color: #fe982d;
+	border: 1px solid #fe982d;
+	font-size: 20px;
+	text-align: center;
+	line-height: 56px;
+	font-weight: bold;
+	margin-top: 180px;
+	margin-left: 39%;
+	margin-bottom: 90px;
+    border-radius: 5px;
+}
+
+.fx_lp .an:hover {
+	background: #fe982d;
+	color: #fff;
+}
+
+.bottom {
+	width: 100%;
+	height: 70px;
+	background: #000;
+}
+
+.bottom ul {
+	margin-left: 254px;
+	padding-top: 20px;
+}
+
+.bottom ul li a {
+	margin-left: 28px;
+	color: #fff;
+	font-size: 14px;
+}
+
+.bottom .sb .s1 {
+	color: #fff;
+	font-size: 12px;
+	margin-left: 341px;
+}
+
+.bottom .sb .s2 {
+	color: #fff;
+	font-size: 12px;
+}
+
+.last .a {
+	float: left;
+	margin-top: -21px;
+}
+
+.last .b {
+	float: left;
+	margin-top: -17px;
+}
+
+.pct img {
+	width: 100%;
+}
+
+.cpjs img {}
+
+.lp_box {
+	width: 1180px;
+	min-width: 1180px;
+	margin: 0 auto;
+}
+.fl_anzi3{
+	float: left;
+    
+}
+.fl_anzi2{
+	float: right;
+	margin-right: 48px;
+}
+.fl_anzi{
+	float: left;
+    
+}
+.fl_anzi1{
+	float: right;
+	margin-right: 48px;
+}
+.last{
+	float: right;
+	margin-right: 215px;
+	margin-top: -13px;
+}
+.bottom a:hover{
+	color: #2281EF;
+}
